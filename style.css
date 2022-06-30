@@ -1,0 +1,37 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+
+}
+.all_color{
+ width: 607px;
+ height: 305px;
+ margin: auto;
+margin-top: 220px;
+border: double;
+
+}
+
+
+
+.red {
+    background: red;
+    width: 200px;
+    height: 300px;
+    float: left;
+
+}
+.yellow {
+    background: yellow;
+    width: 200px;
+    height: 300px;
+    float: left;
+}
+.blue{
+    background: blue;
+    width: 200px;
+    height: 300px;
+    float: left;
+}
+
